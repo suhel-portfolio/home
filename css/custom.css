@@ -1,0 +1,10 @@
+.space10 {
+    margin-left: 10px;
+}
+
+.thum-photo {
+    border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 210px; /* Set a small width */
+}

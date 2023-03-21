@@ -9,3 +9,7 @@
   width: 210px; /* Set a small width */
 }
 
+.qr {
+    margin-left: 10px;
+    width: 175px;
+}

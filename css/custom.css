@@ -2,7 +2,7 @@
     margin-left: 10px;
 }
 
-.thum-photo {
+.thum-photo{
     border: 1px solid #ddd; /* Gray border */
   border-radius: 4px;  /* Rounded border */
   padding: 5px; /* Some padding */
@@ -14,3 +14,4 @@
     width: 165px;
     height: 165px;
 }
+
